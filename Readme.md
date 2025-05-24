@@ -107,9 +107,8 @@ ABC123 ❌ Invalid format (must be numeric and 2/4/6/8 digits)
 
 ### 🔧 Requirements
 
-Install required libraries:
+▶️ Install required libraries:
 
-```bash
 pip install -r requirements.txt
 
 ▶️ Start the chatbot
