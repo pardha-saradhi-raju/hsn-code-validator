@@ -1,0 +1,8 @@
+name: hsn-validation-agent
+description: Agent to validate HSN codes using a master Excel dataset.
+language: en
+intents:
+  - validate_hsn
+fulfillments:
+  - name: validate_hsn
+    entry_point: main:validate_hsn

@@ -1,0 +1,6 @@
+name: hsn-validation-agent
+version: 0.0.1
+description: An agent that validates HSN codes from a master Excel file
+language: python
+intents:
+  - validate_hsn

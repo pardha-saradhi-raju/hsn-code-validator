@@ -1,0 +1,9 @@
+name: validate_hsn
+description: Validates one or more HSN codes and returns their status.
+parameters:
+  - name: hsn_code
+    type: string
+    required: true
+    is_list: true
+fulfillment:
+  name: validate_hsn
