@@ -119,6 +119,7 @@ streamlit run chatbot.py
 
 🗃️ File Structure
 
+```bash
 hsn-agent/
 │
 ├── main.py               # Fulfillment logic
@@ -129,6 +130,7 @@ hsn-agent/
 ├── requirements.txt      # Python dependencies
 └── README.md             # This file
 
+```
 ---
 
 🏆 Bonus Discussion Points
