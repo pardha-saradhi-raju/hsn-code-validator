@@ -71,11 +71,13 @@ For a given 8-digit code like `01011010`:
 
 ### ✅ For Valid Codes:
 01011010 ✅ Valid: PURE-BRED BREEDING ANIMAL
+![image](https://github.com/user-attachments/assets/70f68f6c-a3f1-441d-9337-35a17630a3af)
 
 
 
 ### ❌ For Invalid Codes (Not Found):
 ABC123 ❌ Invalid format (must be numeric and 2/4/6/8 digits)
+![image](https://github.com/user-attachments/assets/b2032880-73ca-402c-8347-f7ff47603b66)
 
 
 
