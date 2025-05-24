@@ -4,6 +4,13 @@ This project is a conceptual implementation of an **HSN Code Validation Agent** 
 
 ---
 
+🌐 Live Demo
+You can access the deployed chatbot here:
+
+🔗 https://pardha-saradhi-raju-hsn-code-validator-chatbot-c1ot4d.streamlit.app/
+
+---
+
 ## 🧠 Agent Design (Using ADK Framework)
 
 ### ✅ Overall Architecture
@@ -145,9 +152,3 @@ hsn-agent/
 
 ✅ Conversational UI encourages user interaction
 
----
-
-🌐 Live Demo
-You can access the deployed chatbot here:
-
-🔗 https://pardha-saradhi-raju-hsn-code-validator-chatbot-c1ot4d.streamlit.app/
